@@ -4,3 +4,10 @@ dist/
 .env.local
 .DS_Store
 .vscode/
+coverage/
+*.log
+.agents/
+.codex/
+.superpowers/
+.codegraph/
+.worktrees/
